@@ -33,4 +33,4 @@ lst.sort()
 
 
 for a,b in lst:
-    print a,b
+    print(a,b)
